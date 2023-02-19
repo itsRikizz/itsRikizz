@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsrikizz" alt="itsrikizz" /></a> </p>
 
-- 🔭 I’m currently working on [MakeMyTrip Clone](https://github.com/itsRikizz/MakeMyTrip-Clone---React-Project---nrblbo299dph)
+- 🔭 I’m currently working on [Youtube Clone](https://github.com/itsRikizz/MakeMyTrip-Clone---React-Project---nrblbo299dph)
 
 - 🌱 I’m currently learning **Javascript and Reactjs**
 
